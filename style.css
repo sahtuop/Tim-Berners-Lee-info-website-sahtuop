@@ -1,0 +1,91 @@
+
+.link {
+ text-align: center;
+font-style:italic;
+font-size: 30px;
+color:black;    
+}
+
+#welcome {
+    background-color: blanchedalmond;
+    text-align: center;
+    text-shadow: 50px;
+    font: 
+}
+
+#bio {
+    background-color: beige;
+    text-align: center;
+    
+    
+}
+
+
+
+body {
+background-color: antiquewhite;    
+    
+}
+#image1 {
+margin-top:250px;
+ height:750px;
+width: 1000px;
+}
+.line {
+    height: 1px;
+
+
+    background-color:black;
+    width: 50opx;
+    
+}
+.menu{
+
+ list-style: none;
+font-size: 45px;
+position: absolute;
+top:1px;
+right:20px;
+left:20px;
+z-index: 15px;
+cursor: pointer;
+margin:1px;
+padding: 50px;
+
+}
+.link:hover{
+ color:rebeccapurple;   
+   font-size: 50px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
